@@ -1,8 +1,10 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/VUE.png
+sticky: true
+comment: false
 ---
 
 # 介绍页
 
-前端开发3621是也测试部署中1
+一个小小的前端开发3621是也

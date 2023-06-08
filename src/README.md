@@ -3,9 +3,11 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /logo1.svg
 heroText: no-3621
 heroFullScreen: true
+bgImage: /pg1.jpg
+bgImageDark: /pg2.jpg
 tagline: 一即是全，全即是一
 projects:
 

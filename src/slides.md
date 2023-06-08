@@ -10,19 +10,19 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" -->
 
-## 幻灯片演示
+## NO-3621
 
 <!-- .element: class="r-fit-text" -->
 
-一个简单的幻灯片演示与各种小贴士。
+一个简单的技术栈和项目介绍
 
 <!-- .element: class="r-fit-text" -->
 
-> 作者 Mr.Hope. 请滚动鼠标滚轮进入下一页
+> 作者 no-3621. 请滚动鼠标滚轮进入下一页
 
 ---
 
-## 标注幻灯片
+## 个人技术栈
 
 <!-- .element: class="r-fit-text" -->
 
@@ -30,11 +30,12 @@ layout: Slide
 
 --
 
-## 标注幻灯片
+## 技术栈
 
 <!-- .element: class="r-fit-text" -->
 
-使用 `---` 标注水平幻灯片
+<!-- 使用 `---` 标注水平幻灯片 -->
+VUE全家桶系列
 
 <!-- .element: class="fragment fade-in" -->
 

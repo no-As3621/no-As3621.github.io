@@ -22,6 +22,22 @@ export default navbar([
       },
     ],
   },
+  {
+    text: "JS",
+    icon: "pen-to-square",
+    prefix: "/posts/",
+    children: [
+      {
+        text: "JS",
+        icon: "pen-to-square",
+        prefix: "JS/",
+        children: [
+          "1",
+          "2",
+        ],
+      },
+    ],
+  },
   // {
   //   text: "V2 文档",
   //   icon: "book",

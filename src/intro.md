@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /assets/images/VUE.png
+cover: /36pg.png
 sticky: true
 comment: false
 ---

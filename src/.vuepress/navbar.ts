@@ -14,7 +14,7 @@ export default navbar([
         prefix: "VUE/",
         children: [
           "1",
-          "2",
+          "11",
           "3",
           "4",
           "8"
